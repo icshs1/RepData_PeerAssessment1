@@ -1,3 +1,8 @@
+---
+title: "Reproducible Research : Peer Assessment1"
+output: html_document
+---
+
 # Reproducible Research: Peer Assessment 1
 
 
@@ -194,7 +199,7 @@ paste("The medians of original data and impuing data are",Total.Steps_median,","
 
 ```r
 ## Create a new factor variable in the dataset with two levels 
-## ¡°weekday¡± and ¡°weekend¡± 
+## ??weekday?? and ??weekend?? 
 Sys.setlocale("LC_TIME", "English")
 ```
 
